@@ -39,5 +39,6 @@ All token/currency displays use a custom SVG gold coin with a 'W' in the center 
 
 # Credits
 UI: Bootstrap, FontAwesome
+
 Project by Vidushi Negi
 
